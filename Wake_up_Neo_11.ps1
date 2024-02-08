@@ -25,4 +25,4 @@ function Show-MatrixMessage {
 Show-MatrixMessage "Wake up, Neo..."
 Show-MatrixMessage "The Matrix has you..."
 Show-MatrixMessage "Follow the white rabbit."
-Show-MatrixMessage "Knock knock, Neo."
+Show-MatrixMessage "Knock, knock, Neo."
